@@ -1,17 +1,29 @@
-# Project 05 — Liquid Button
+# Project 05 — Liquid Button  
+**PT-BR:**  
+Este projeto ensina como criar um **Liquid Button** — um botão fluido com animação moderna usando apenas CSS.
 
-Mais um microprojeto visual do **SantsCoder**, ensinando como criar um **Liquid Button** — um botão fluido com animação suave e efeito de movimento.
+**EN:**  
+This project teaches how to create a **Liquid Button** — a fluid, modern animated button using only CSS.
 
-Excelente para iniciantes entenderem manipulação de formas, transbordo e `@keyframes`.
+---
 
-## 🛠 Tecnologias
+## 🛠 Tecnologias / Technologies
 - HTML  
 - CSS  
 
-## ▶ Como usar
+---
+
+## ▶ Como usar (PT-BR)
 1. Baixe ou clone o repositório  
 2. Abra `index.html`  
-3. Ajuste cores, velocidade do líquido e formato do botão
+3. Ajuste cores, formas e tempo da animação  
 
-## 📹 Vídeo no YouTube
+## ▶ How to use (EN)
+1. Download or clone this repository  
+2. Open `index.html`  
+3. Customize colors, shapes, and animation timing  
+
+---
+
+## 📹 Vídeo / Video  
 https://youtube.com/@santscoder404
